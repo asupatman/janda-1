@@ -1,3 +1,2 @@
 User-agent: *
-
-Sitemap: https://asupatman.github.io/janda-1/sitemap.xml
+Allow: /
